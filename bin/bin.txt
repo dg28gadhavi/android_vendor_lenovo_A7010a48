@@ -1,0 +1,1 @@
+rm -rf cameraserver ccci_fsd ccci_mdinit gsm0710muxd init_thh md_ctrl mediacodec mediaserver mtkrild muxreport pppd_dt teei_daemon terservice tertestclient wpa_cli wpa_supplicant
